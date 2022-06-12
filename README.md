@@ -3,7 +3,7 @@
 ## Overview
 An analysis of August 2019 CitiBike bikesharing data by creating visualizations in Tableau.
 
-Full CitiBike Table story can be seen here: [Dashboard](https://public.tableau.com/app/profile/brittney.r.stanley/viz/CitiBikeChallenge_16549932656150/NYCCitiBike?publish=yes)
+Full CitiBike Tableau story can be seen here: [Dashboard](https://public.tableau.com/app/profile/brittney.r.stanley/viz/CitiBikeChallenge_16549932656150/NYCCitiBike?publish=yes)
 
 ### Data Analyzed from Bikesharing Data
 1. Gender and User Types of Bikesharing Program
@@ -45,7 +45,7 @@ The fifth page shows the most common customers are male, subscribers and use the
 #### Page 6: August Peak Hours
 ![Peak_hours](Images/Story_Peak_Hours.png)
 
-The sixth page shows the August Peak Hours of when the bikesharing is used most. The data shows between midnight and 4 AM are the best times for bike maintenance and repairs. From 4PM to 7PM the bikesharings is used the most.
+The sixth page shows the August Peak Hours of when the bikesharing is used most. The data shows between midnight and 4 AM are the best times for bike maintenance and repairs. From 4PM to 7PM the bikesharing is used the most.
 
 #### Page 7: Top Starting Locations
 ![Map](Images/Story_High_Tourist_Map.png)
@@ -57,4 +57,4 @@ In conclusion of the above data, it is evident the bikesharing service is utiliz
 
 Two additional visualizations that could be utilized with this data:
 1. Using the average trip duration with gender and birth year to fully understand why the bikesharing is predominately used by males. This would help advertise to the right demographic in order to encourage more female riders.
-2. pulling data for different months of the year and understand the correlation between the time of the year and number of riders.
+2. Pulling data for different months of the year and understand the correlation between the time of the year and number of riders.
