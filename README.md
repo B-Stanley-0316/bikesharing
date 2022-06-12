@@ -53,3 +53,8 @@ The sixth page shows the August Peak Hours of when the bikesharing is used most.
 The final page shows a map based off of the longitude and latitude of the area bikesharing is most utilized. This is a highly commuted area.
 
 ## Summary
+In conclusion of the above data, it is evident the bikesharing service is utilized in metropolitan type areas where people are densely packed in the city. Most of the customers/subscribers are male, and the bikesharing is used most during commuting hours.
+
+Two additional visualizations that could be utilized with this data:
+1. Using the average trip duration with gender and birth year to fully understand why the bikesharing is predominately used by males. This would help advertise to the right demographic in order to encourage more female riders.
+2. pulling data for different months of the year and understand the correlation between the time of the year and number of riders.
